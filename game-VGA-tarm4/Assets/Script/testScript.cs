@@ -12,6 +12,9 @@ public class testScript : MonoBehaviour
     {
         Debug.Log(test);
         Debug.Log(a + b);
+        Debug.Log(a - b);
+        Debug.Log(a * b);
+        Debug.Log(a);
     }
 
     // Update is called once per frame
